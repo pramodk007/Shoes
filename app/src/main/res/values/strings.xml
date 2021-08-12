@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Shoes</string>
+    <string name="shoe_one">Nike SPEEDREP</string>
+    <string name="shoe_two">Reebok Energy Runner 2.0</string>
+    <string name="shoe_three">Red Tape Mesh Air + Walking Shoes</string>
+    <string name="shoe_four">MENGLER Men Black Textile Walking Shoes</string>
+    <string name="shoe_five">Puma Men White Smash Leather Sneakers</string>
+    <string name="shoe_six">Nike Retaliation TR 3 Gym Shoes</string>
+    <string name="shoe_seven">HRX by Hrithik Front Runner Shoes</string>
+    <string name="shoe_eight">Nike FLEX CONTROL TR4 Training or Gym Shoes</string>
+    <string name="shoe_nine">Nike AIR JORDAN 11 </string>
+    <string name="shoe_ten">DressBerry Women White Solid Sneakers</string>
+    <string name="shoe_eleven">HIGHLANDER Men Grey Sneakers</string>
+    <string name="shoe_twelve">MENGLER White Textile Walking Non-Marking Shoes</string>
+    <string name="shoe_thirteen">Red Tape Men Black Air + Walking Shoes</string>
+    <string name="shoe_fourteen">WROGN Men Red Solid Sneakers with Brand Logo Detail</string>
+    <string name="shoe_fifteenth">Puma Liberate Nitro Running Shoes</string>
+    <string name="shoe_sixteen">PUMA Motorsport Red Ferrari Race Kart Sneakers</string>
+    <string name="shoe_seventeen">HIGHLANDER Men White Solid Sneakers</string>
+    <string name="shoe_eighteen">HRX by Hrithik Grey Colourblocked Chunky Sneakers</string>
+    <string name="shoe_nineteen">Red Tape Men White Sneakers</string>
+    <string name="shoe_twenty">Red TapeMen Navy Blue Walking Shoes</string>
+
+    <string name="shoePrice_one"> Rs. 2000 </string>
+    <string name="shoePrice_two">Rs. 1000</string>
+    <string name="shoePrice_three">Rs. 3000</string>
+    <string name="shoePrice_four">Rs. 2040</string>
+    <string name="shoePrice_five">Rs. 2070</string>
+    <string name="shoePrice_six">Rs. 2800</string>
+    <string name="shoePrice_seven">Rs. 5000</string>
+    <string name="shoePrice_eight">Rs. 2500</string>
+    <string name="shoePrice_nine">Rs. 2090</string>
+    <string name="shoePrice_ten">Rs. 1000</string>
+    <string name="shoePrice_eleven">Rs. 1500</string>
+    <string name="shoePrice_twelve">Rs. 2800</string>
+    <string name="shoePrice_thirteen">Rs. 5000</string>
+    <string name="shoePrice_fourteen">Rs. 2800</string>
+    <string name="shoePrice_fifteenth">Rs. 2900</string>
+    <string name="shoePrice_sixteen">Rs. 5000</string>
+    <string name="shoePrice_seventeen">Rs. 4000</string>
+    <string name="shoePrice_eighteen">Rs. 3000</string>
+    <string name="shoePrice_nineteen">Rs. 4000</string>
+    <string name="shoePrice_twenty">Rs. 1000</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/circle_blue.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/circle_green.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/circle_shape.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/corner_for_ll.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/corner_round_button.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/divider.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/red_color_button.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/round_corner.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/round_corner_edttext.xml" value="0.35" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/drawable/shoe_card_view.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/font/kadwa.xml" value="0.36574074074074076" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_intro_screen.xml" value="0.3697916666666667" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_main.xml" value="0.3697916666666667" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_shoe_display.xml" value="0.33" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/activity_splash_screen.xml" value="0.3697916666666667" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/corner.xml" value="0.3697916666666667" />
+        <entry key="..\:/Users/thede/AndroidStudioProjects/Shoes/app/src/main/res/layout/single_product_row.xml" value="0.3697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
